@@ -2,7 +2,10 @@ div{
 	width: 300px;
 	border: 15px solid blue;
 	background-color: lightblue;
+	padding: 50px;
+	margin: 20px;
 }
 .para{
+	color: black;
 	
 }
