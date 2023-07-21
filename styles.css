@@ -1,2 +1,8 @@
-
-/* Your CSS Code here. */
+div{
+	width: 300px;
+	border: 15px solid blue;
+	background-color: lightblue;
+}
+.para{
+	
+}
